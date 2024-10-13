@@ -1,4 +1,4 @@
-# Tutorial da ferramenta de gerenciamento de email na Python Brasil 2025
+# Tutorial da ferramenta de gerenciamento de email
 
 Na Python Brasil 2025 utilizamos o [freshdesk](https://pythonbrasil.freshdesk.com/a/dashboard/default) como ferramenta para gerenciar emails. 
 

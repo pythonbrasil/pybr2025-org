@@ -20,7 +20,6 @@ Texto do comentário: {COMMENT_BODY}
         "chat_id": CHAT_ID,
         "text": message,
         "message_thread_id": THREAD_ID,
-        "disable_notification": True
     }    
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     httpx.get(url, params=params)

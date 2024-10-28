@@ -3,7 +3,7 @@ import os
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 ISSUE_TITLE = os.getenv("ISSUE_TITLE")
-#COMMENT_USER = os.getenv("COMMENT_USER_NAME")
+COMMENT_USER = os.getenv("COMMENT_USER")
 COMMENT_BODY = os.getenv("COMMENT_BODY")
 COMMENT_URL = os.getenv("COMMENT_URL")
 CHAT_ID = "-1002120660974"
@@ -13,6 +13,7 @@ THREAD_ID = 1888
 def main():
     message = f"""
     Novo comentário na issue {ISSUE_TITLE}
+Quem fez o comentário? {COMMENT_USER}
 Link do comentário: {COMMENT_URL}
 Texto do comentário: {COMMENT_BODY}
 """

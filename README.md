@@ -10,3 +10,5 @@ Repositório para uso da organização da Python Brasil 2025
 * Utilizamos o [FreshDesk](https://pythonbrasil.freshdesk.com/a/dashboard/default) para centralizar o envio e recebimento de emails da organização do evento, para mais informações leia esse [guia](docs/freshdesk.md)
 * Para auxílio da APyB em como organizar o evento temos esse [guia](https://apyb.python.org.br/associados/guias/como-organizar-eventos/)
 * Existe também o [Manual do Big Kahuna da Python Brasil](https://manual.pythonbrasil.org.br/organizacao/index.html) como referência de organização de evento
+
+Temos diversos guias que podem ser úteis na pasta [docs](docs)

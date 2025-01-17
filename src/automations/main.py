@@ -25,7 +25,11 @@ Novo [comentário]({COMMENT_URL}) de *{COMMENT_USER}* na issue [{ISSUE_TITLE}]({
         "parse_mode": "Markdown"
     }  
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-    httpx.get(url, params=params)
+    response = httpx.get(url, params=params)
+    status_code = response.status_code
+    if status_code != 200:
+        print(f"Erro {status_code}: {response.json()}")
+        raise Exception
 
 if __name__ == '__main__':
     main()

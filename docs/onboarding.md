@@ -24,7 +24,7 @@ então levamos isso em consideração em todos os prazos estabelecidos;
 
 * Organizamos o evento de forma principalmente **assíncrona** com issues do Github e comunicação no grupo do Telegram
 * Temos uma reunião semanal **opcional** às quartas-feiras 18h30, horário de Brasília (GMT-3) pelo Google Meet
-* Todos os documentos essenciais para a organização estão salvos no nosso [drive](https://drive.google.com/drive/u/0/folders/1xVgNsmIZl4RtqliYwUONp7duFrhgFgFZ)
+* Todos os documentos essenciais para a organização estão salvos no nosso drive
 
 ## Grupos de trabalho que mais exigem atenção:
 

@@ -12,3 +12,5 @@ Repositório para uso da organização da Python Brasil 2025
 * Existe também o [Manual do Big Kahuna da Python Brasil](https://manual.pythonbrasil.org.br/organizacao/index.html) como referência de organização de evento
 
 Temos diversos guias que podem ser úteis na pasta [docs](docs)
+
+Para as pessoas voluntárias na organização temos o nosso [guia de onboarding](docs/onboarding.md).

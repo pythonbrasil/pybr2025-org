@@ -5,3 +5,4 @@
 guia de onboarding linkado no final do README.
 3. Adicionar a pessoa no drive
 4. Adicionar a pessoa no invite da reunião semanal como opcional
+5. Adicionar a pessoa como membro no time `pybr2025-org` do Github

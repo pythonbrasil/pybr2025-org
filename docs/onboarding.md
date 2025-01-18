@@ -1,6 +1,6 @@
 [# Onboarding para novos integrantes \o/
 
-Olá, Voluntário, tudo bem?  
+Olá, cara pessoa amável, tudo bem?  
 Ficamos contentes que queiram contribuir para a realização desse evento maravilhoso que é a Python Brasil 2025!
 
 A Python Brasil é o evento da linguagem de programação Python de abrangência nacional, 

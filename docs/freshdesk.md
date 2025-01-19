@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Recentemente o freshdesk mudou sua política de planos gratuitos e agora permite apenas **dois agentes por conta**, dessa forma apenas algumas pessoas da org estão conseguindo mandar email por la utilizando login compartilhado. 
+
 # Tutorial da ferramenta de gerenciamento de email
 
 Na Python Brasil 2025 utilizamos o [freshdesk](https://pythonbrasil.freshdesk.com/a/dashboard/default) como ferramenta para gerenciar emails. 

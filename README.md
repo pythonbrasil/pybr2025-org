@@ -13,4 +13,5 @@ Repositório para uso da organização da Python Brasil 2025
 
 Temos diversos guias que podem ser úteis na pasta [docs](docs)
 
-Para as pessoas voluntárias na organização temos o nosso [guia de onboarding](docs/onboarding.md).
+> [!IMPORTANT]
+> Para as pessoas voluntárias na organização temos o nosso [guia de onboarding](docs/onboarding.md).

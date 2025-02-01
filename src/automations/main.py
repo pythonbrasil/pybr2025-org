@@ -18,6 +18,7 @@ Novo [comentário]({COMMENT_URL}) de *{COMMENT_USER}* na issue [{ISSUE_TITLE}]({
 *Texto do comentário*:
 {COMMENT_BODY}
 """
+    message = message.replace(" * ", "- ") # API do Telegram lida melhor com - do que com * pra listas
     params = {
         "chat_id": CHAT_ID,
         "message_thread_id": THREAD_ID,

@@ -8,11 +8,12 @@ ISSUE_NUMBER = os.getenv("ISSUE_NUMBER")
 ISSUE_AUTHOR = os.getenv("ISSUE_AUTHOR")
 ISSUE_BODY = os.getenv("ISSUE_BODY")
 
-# CHAT_ID = "-1002120660974"
-# THREAD_ID = 1888
+CHAT_ID = "-1002120660974"
+THREAD_ID = 1888
 
-CHAT_ID = "-1002354441960"
-THREAD_ID = 2
+# Grupo de teste
+# CHAT_ID = "-1002354441960"
+# THREAD_ID = 2
 
 # url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
 
@@ -29,7 +30,7 @@ Nova issue [{ISSUE_TITLE}]({ISSUE_URL}) criada por *{ISSUE_AUTHOR}*
         "message_thread_id": THREAD_ID,
         "text": message,
         "parse_mode": "Markdown",
-        "disable_notification": True
+        # "disable_notification": True
     }  
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     response = httpx.get(url, params=params)

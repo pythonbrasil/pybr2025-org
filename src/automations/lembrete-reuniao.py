@@ -4,12 +4,12 @@ import os
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 
-# CHAT_ID = "-1002120660974"
-# THREAD_ID = 1888
+CHAT_ID = "-1002120660974"
+THREAD_ID = 1888
 
 # Grupo de teste
-CHAT_ID = "-1002354441960"
-THREAD_ID = 2
+# CHAT_ID = "-1002354441960"
+# THREAD_ID = 2
 
 # url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
 

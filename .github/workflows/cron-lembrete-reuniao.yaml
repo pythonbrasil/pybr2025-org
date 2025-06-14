@@ -2,7 +2,7 @@ name: Lembrete de reunião
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/6 * * * *'
 
 jobs:
   lembrete_reuniao:

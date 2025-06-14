@@ -2,7 +2,8 @@ name: Lembrete de reunião
 
 on:
   schedule:
-    - cron: '0 14 * * 4'
+    - cron: '0 14 * * 4''
+  workflow_dispatch:
 
 jobs:
   lembrete_reuniao:

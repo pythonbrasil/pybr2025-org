@@ -3,6 +3,7 @@ name: Lembrete de reunião
 on:
   schedule:
     - cron: '*/6 * * * *'
+  workflow_dispatch:
 
 jobs:
   lembrete_reuniao:

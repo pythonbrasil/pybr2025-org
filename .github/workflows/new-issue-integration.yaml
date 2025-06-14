@@ -1,4 +1,4 @@
-name: Issue and Comment Automation
+name: New Issue Integration
 
 on:
   issue_comment:

@@ -23,7 +23,7 @@ então levamos isso em consideração em todos os prazos estabelecidos;
 ## Sobre a organização
 
 * Organizamos o evento de forma principalmente **assíncrona**, através de issues do Github e comunicação no grupo do Telegram
-* Temos uma reunião semanal **opcional** às quartas-feiras 18h30, horário de Brasília (GMT-3) pelo Google Meet
+* Temos uma reunião semanal **opcional** às quintas-feiras 18h30, horário de Brasília (GMT-3) pelo Google Meet
 * Todos os documentos essenciais para a organização estão salvos no nosso drive
 
 ## Grupos de trabalho que mais exigem atenção:

@@ -15,7 +15,7 @@ THREAD_ID = 1888
 
 def main():
     message = f"""
-Olá meu povo, lembrete para nossa reunião semanal hoje às 18:30
+TESTEEEE Olá meu povo, lembrete para nossa reunião semanal hoje às 18:30
 O link para entrar na chamada é esse:
 https://meet.google.com/ons-mudm-boj
 

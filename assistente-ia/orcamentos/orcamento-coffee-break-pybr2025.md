@@ -5,7 +5,7 @@
 - **Evento:** Python Brasil 2025 - Maior evento Python da América Latina
 - **Site:** [2025.pythonbrasil.org.br](https://2025.pythonbrasil.org.br/)
 - **Datas do Coffee Break:** 24, 25 e 26 de outubro de 2025 (3 dias)
-- **Frequência:** 2x por dia (manhã e tarde) = 6 coffee breaks total
+- **Frequência:** 1x por dia (tarde) = 3 coffee breaks total
 - **Local:** Centro de Eventos São Luis (R. Luís Coelho, 323 - Consolação, São Paulo)
 - **Participantes:** 800 pessoas
 - **Público:** Desenvolvedores, Administradores de Sistema, Cientistas de Dados
@@ -133,13 +133,13 @@
 
 ## ⚠️ Checklist Antes de Contratar
 
-- [ ] ✅ Confirmar capacidade para 800 pessoas x 6 coffee breaks
+- [ ] ✅ Confirmar capacidade para 800 pessoas x 3 coffee breaks
 - [ ] ✅ Verificar disponibilidade para 24-26 de outubro de 2025  
 - [ ] ✅ Solicitar referências de eventos similares (+500 pessoas)
 - [ ] ✅ Confirmar entrega no Centro de Eventos São Luis
 - [ ] ✅ Verificar opções veganas disponíveis
 - [ ] ✅ Solicitar degustação prévia
-- [ ] ✅ Definir horários dos coffee breaks (manhã/tarde)
+- [ ] ✅ Confirmar horário do coffee break (tarde - 15h30)
 - [ ] ✅ Confirmar equipe de montagem e servimento
 - [ ] ✅ Verificar seguro e licenças sanitárias
 
@@ -150,10 +150,10 @@
 - **Premium:** R$ 25-40 por pessoa = R$ 20.000 - R$ 32.000
 - **Gourmet:** R$ 40-60 por pessoa = R$ 32.000 - R$ 48.000
 
-### **Total (6 coffee breaks):**
-- **Básico:** R$ 72.000 - R$ 120.000
-- **Premium:** R$ 120.000 - R$ 192.000  
-- **Gourmet:** R$ 192.000 - R$ 288.000
+### **Total (3 coffee breaks):**
+- **Básico:** R$ 36.000 - R$ 60.000
+- **Premium:** R$ 60.000 - R$ 96.000  
+- **Gourmet:** R$ 96.000 - R$ 144.000
 
 *Valores estimados baseados em mercado. Preços finais dependem de menu, horários e serviços inclusos.*
 
@@ -172,9 +172,9 @@ Vi vocês no Instagram e preciso de orçamento para COFFEE BREAK.
 • Pessoas: 800 participantes
 
 💡 ESPECIFICAÇÕES:
-✅ 6 coffee breaks (2x por dia durante 3 dias)
+✅ 3 coffee breaks (1x por dia durante 3 dias)
 ✅ 800 pessoas por coffee break
-✅ Horários: manhã (10h) e tarde (15h30)
+✅ Horário: tarde (15h30)
 ✅ Opções veganas (desejável)
 ✅ Montagem e desmontagem no local
 ✅ Equipe de servimento
@@ -193,9 +193,9 @@ Aguardo! 🙏
 ### **Logística Necessária:**
 - **Local:** Centro de Eventos São Luis - Consolação/SP
 - **Acesso:** Verificar horários de carga/descarga
-- **Montagem:** 2h antes de cada coffee break
+- **Montagem:** 2h antes do coffee break (13h30)
 - **Desmontagem:** 1h após término
-- **Armazenamento:** Verificar local para equipamentos entre coffee breaks
+- **Armazenamento:** Não necessário (apenas 1 coffee break por dia)
 
 ### **Equipamentos Inclusos:**
 - Mesas buffet
@@ -208,17 +208,12 @@ Aguardo! 🙏
 ## 📝 Considerações Especiais
 
 ### **Cardápio Sugerido:**
-**Manhã (10h):**
-- Café, chás, sucos
-- Pães, croissants, biscoitos
-- Frutas da estação
-- Opções veganas: leites vegetais, pães sem lactose
-
 **Tarde (15h30):**  
 - Café, chás, água saborizada
 - Mini doces, cookies, brownies
 - Frutas e oleaginosas
-- Opções veganas: doces sem ingredientes animais
+- Salgadinhos e biscoitos
+- Opções veganas: doces sem ingredientes animais, salgados veganos
 
 ### **Público Tech - Considerações:**
 - ✅ Muitos desenvolvedores preferem café forte
@@ -233,7 +228,7 @@ Aguardo! 🙏
 4. **Timing:** Contactar múltiplas empresas simultaneamente para comparação
 
 ### **Dicas de Negociação:**
-1. **Destacar o volume:** 6 coffee breaks = economia de escala
+1. **Destacar o volume:** 3 coffee breaks de 800 pessoas cada = economia de escala
 2. **Visibilidade:** "Evento com 800 desenvolvedores e empresários tech"
 3. **Referência:** "Python Brasil é evento anual - potencial parceria duradoura"
 4. **Planejamento:** "1 mês de antecedência - sem pressa na produção"

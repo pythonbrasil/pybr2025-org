@@ -36,6 +36,7 @@ Monitorar continuamente as tarefas organizacionais da Python Brasil 2025, analis
   - Lê comentários para detectar progresso não refletido no status
   - Identifica blockers através de palavras-chave
   - Reconhece conclusão implícita vs fechamento formal
+  - **⚠️ CUIDADO:** Não assumir progresso apenas por haver comentários - verificar se há trabalho substancial realizado
 
 **Resultado:** Issues categorizadas com metadados extraídos e status real identificado
 
@@ -103,6 +104,7 @@ Monitorar continuamente as tarefas organizacionais da Python Brasil 2025, analis
 - **Voluntários Sobrecarregados:** >5 issues ativas simultaneamente
 - **Categorias Problemáticas:** <50% de taxa de conclusão
 - **Padrões de Risco:** Issues com múltiplas transferências
+- **⚠️ Falso Progresso:** Issues com comentários isolados mas sem trabalho estrutural (ex: apenas 1 fornecedor contactado)
 
 **Análise de Tendências:**
 - Velocidade de conclusão semana a semana
@@ -326,7 +328,37 @@ Issue #102: Definir parceria Pythonic Café
 
 ---
 
+## 🎓 **Lições Aprendidas**
+
+### **Erro Crítico: Assumir Progresso por Comentários (18/08/2025)**
+
+**O que aconteceu:**  
+Durante análise da issue #71 (Coffee Break), assumi que estava "sendo trabalhada" apenas porque @belaaiza havia comentado. Na realidade:
+- ❌ Apenas 1 fornecedor contactado
+- ❌ Sem follow-up sobre resposta  
+- ❌ Sem responsável assignado
+- ❌ Sem pesquisa estrutural
+
+**Erro conceitual:**  
+Confundi **atividade** com **progresso efetivo**. Um comentário isolado ≠ trabalho substancial.
+
+**Correção aplicada:**  
+- ✅ Adicionar verificação de "trabalho estrutural realizado"
+- ✅ Não categorizar como "em progresso" se houver apenas comentário isolado
+- ✅ Exigir evidência de múltiplos fornecedores/pesquisa para vendor research
+- ✅ Distinguir entre "alguém comentou" vs "alguém está trabalhando ativamente"
+
+**Regra para futuro:**  
+Para vendor research, considerar "em progresso" apenas com:
+- 3+ fornecedores identificados OU
+- Template de mensagem criado OU  
+- Múltiplas cotações solicitadas OU
+- Orçamentos recebidos
+
+---
+
 **Documento criado em:** 14 de agosto de 2025  
+**Última atualização:** 18 de agosto de 2025  
 **Evento:** Python Brasil 2025 (21-27 out/2025)  
 **Contexto:** Especificação funcional para operação via Claude Code  
-**Localização:** `/assistente-ia//contexto/task-tracking-agent.md`
+**Localização:** `/assistente-ia/contexto/como-rastrear-tarefas.md`

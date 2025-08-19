@@ -170,7 +170,6 @@ Vi vocês no Instagram e preciso de orçamento para COFFEE BREAK.
 • Datas: 24, 25 e 26 de outubro/2025
 • Local: Centro de Eventos São Luis - Consolação/SP
 • Pessoas: 800 participantes
-• Entrega: até 20 de setembro/2025
 
 💡 ESPECIFICAÇÕES:
 ✅ 6 coffee breaks (2x por dia durante 3 dias)

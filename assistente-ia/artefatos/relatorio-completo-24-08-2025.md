@@ -152,164 +152,34 @@
 
 ---
 
-## 🚨 **PROBLEMAS CRÍTICOS ATUALIZADOS**
+## 🚨 **PROBLEMAS CRÍTICOS**
 
-### **Issues Realmente Paradas >30 dias:**
-1. **#102:** Pythonic Café (44 dias - belaaiza)
-2. **#97:** Decidir keynotes (109 dias - renan-asantos)  
-3. **#92:** Segurança (45 dias - vbuxbaum)
-4. **#74:** NIC.BR (207 dias - sergiomario)
-5. **#66:** Email Novatec (213 dias - renan-asantos)
-6. **#62:** Relatório PSF (217 dias - biancarosa)
+### **Issues Paradas >30 dias:**
+- #102: Pythonic Café (44 dias - belaaiza)
+- #97: Decidir keynotes (109 dias - renan-asantos)  
+- #92: Segurança (45 dias - vbuxbaum)
+- #74: NIC.BR (207 dias - sergiomario)
 
-### **Gargalo Principal Identificado:**
-**"Orçamento Gerado → Fornecedores Contatados"**
-- 2 issues têm orçamentos IA completos mas ninguém executa
-- Solução: Atribuir responsáveis para #128 e #94
+### **Gargalo Principal:**
+**"Orçamento Gerado → Execução"** - 2 issues (#128, #94) têm orçamentos prontos mas sem responsável
 
 ### **Bloqueador Crítico:**
-- **#129 (Arte camiseta)** bloqueia **#136 (Orçamentos camiseta)**
-- thiagodemedeiros não pode avançar sem definir a arte
+#129 (Arte camiseta) bloqueia #136 (Orçamentos camiseta)
 
 ---
 
-## 💡 **SUGESTÕES DE REDISTRIBUIÇÃO URGENTE**
+## 💡 **AÇÕES PRIORITÁRIAS**
 
-### **RESOLVER BLOQUEADOR:**
-1. **Issue #129** (Arte camiseta) → **Voluntário criativo URGENTE**
-   - Desbloqueará #136 que já tem empresas mapeadas
-
-### **ATRIBUIR ORÇAMENTOS PRONTOS:**
-2. **Issue #128** (Fotografia) → **Voluntário disponível**
-   - Orçamento completo, só precisa executar contatos
-
-3. **Issue #94** (Limpeza) → **Voluntário disponível**  
-   - Orçamento completo, só precisa executar contatos
-
-### **REDISTRIBUIR DE SOBRECARREGADOS:**
-4. **Issue #97** (Decidir keynotes) → **ericof**
-   - Motivo: ericof já gerencia keynotes, tem contexto
-
-5. **Issue #66** (Email Novatec) → **thiagodemedeiros**
-   - Motivo: thiagodemedeiros está ativo e produtivo
-
-### **CRÍTICAS ÓRFÃS - ATRIBUIR:**
-6. **Issue #134** (Estandes) → **Voluntário vendor research**
-7. **Issue #126** (Keynote Simara) → **ericof** (já gerencia keynotes)
-8. **Issue #131** (Criadores conteúdo) → **Voluntário marketing**
-
----
-
-## 🎯 **DESCOBERTAS IMPORTANTES**
-
-### **✅ POSITIVAS:**
-1. **thiagodemedeiros emergiu como muito ativo** - 3 issues críticas
-2. **Menos issues órfãs que pensávamos** - muitas têm orçamentos
-3. **Progresso real em orçamentos** - 63% vs 44% estimado antes
-4. **Duplas funcionando** - thiagodemedeiros + vbuxbaum em #87
-
-### **⚠️ PONTOS DE ATENÇÃO:**
-1. **Gargalo "Orçamento → Execução"** - principal problema
-2. **Arte da camiseta** é bloqueador crítico
-3. **Issues paradas há 200+ dias** com responsáveis inativos
-4. **Automações 100% órfãs** - precisa de perfil técnico
-
----
-
-## 🚀 **RECOMENDAÇÕES ESTRATÉGICAS**
-
-### **AÇÕES IMEDIATAS (24-48h):**
-1. **URGENTE:** Atribuir responsável para #129 (Arte camiseta)
-2. **Atribuir execução** para #128 e #94 (orçamentos prontos)  
-3. **Redistribuir** #97 e #66 de renan-asantos
-4. **Follow-up** issues paradas >30 dias
+### **URGENTE:**
+1. Atribuir responsável para #129 (Arte camiseta) - desbloqueador
+2. Atribuir execução para #128 (Fotografia) e #94 (Limpeza) 
+3. Redistribuir #97 (Keynotes) de renan-asantos para ericof
 
 ### **ESTA SEMANA:**
-1. **Finalizar bloqueador** #129 para liberar #136
-2. **Executar orçamentos prontos** (#128, #94)
-3. **Atribuir responsáveis** para 5 issues críticas órfãs
-4. **Implementar** alertas automáticos básicos
+- Executar contatos: #87, #136, #98 (thiagodemedeiros)
+- Atribuir responsáveis para 3 keynotes/patrocínios órfãos
+- Follow-up voluntários inativos >30 dias
 
-### **PRÓXIMAS 2 SEMANAS:**
-1. **Completar orçamentos restantes** (#134, #122, #93, #76)
-2. **Resolver keynotes pendentes** (#126, #97)  
-3. **Ativar voluntários** parados há >30 dias
-4. **Dashboard** básico funcionando
-
----
-
-## 📈 **PROJEÇÕES ATUALIZADAS**
-
-### **CENÁRIO ATUAL (58 dias até evento):**
-- **Taxa conclusão real:** 3-4 issues/semana (thiagodemedeiros ativo)
-- **Issues críticas órfãs:** 8 (reduzido de 15)
-- **Risco atual:** **MÉDIO-ALTO** (melhorou com descobertas)
-
-### **PRINCIPAIS RISCOS:**
-1. **Arte da camiseta** não definida → bloqueia orçamento crítico
-2. **Voluntários inativos** há >30 dias → podem abandonar
-3. **Automações órfãs** → sem perfil técnico no time
-4. **Keynote Simara** → pode afetar marketing
-
-### **MITIGAÇÃO SUGERIDA:**
-- **Priorizar desbloqueio** #129 (arte)
-- **Recrutar 1-2 voluntários** para automações
-- **Sistema de buddies** para issues críticas
-- **Weekly check-in** com responsáveis inativos
-
----
-
-## ✅ **PRÓXIMAS AÇÕES PRIORIZADAS**
-
-### **HOJE (24/08):**
-1. ⚡ Atribuir responsável para #129 (Arte camiseta) - BLOQUEADOR
-2. 📋 Atribuir execução para #128 e #94 (orçamentos prontos)
-3. 📞 Follow-up voluntários parados >30 dias
-
-### **ESTA SEMANA (25-30/08):**
-1. 🎨 Resolver arte da camiseta (#129)
-2. 📱 thiagodemedeiros executar contatos (#87, #136, #98)
-3. 👥 Atribuir 3 keynotes/patrocínios órfãos
-4. 🤖 Implementar alertas Telegram básicos
-
-### **PRÓXIMAS 2 SEMANAS (31/08-14/09):**
-1. 💰 Finalizar 4 orçamentos restantes
-2. 📊 Dashboard de acompanhamento  
-3. 🔄 Sistema de check-ins automático
-4. 👥 Reativar ou substituir voluntários inativos
-
----
-
-## 🏆 **RECONHECIMENTOS**
-
-### **🌟 DESTAQUES DA SEMANA:**
-- **thiagodemedeiros:** Assumiu 3 issues críticas espontaneamente
-- **thiagoferreiraw (IA):** Gerou 5+ orçamentos completos
-- **Dupla thiagodemedeiros + vbuxbaum:** Progresso real em #87
-
-### **📈 MÉTRICAS DE SUCESSO:**
-- Issues órfãs: **15 → 8** (47% redução)
-- Orçamentos com progresso: **44% → 63** (43% melhoria)
-- Voluntários ativos descobertos: **+1** (thiagodemedeiros)
-
----
-
-## 🔄 **WORKFLOW OPERACIONAL SUGERIDO**
-
-### **Alertas Telegram (para implementar):**
-- **Daily 09:00:** Top 3 issues críticas
-- **Segunda/Quarta/Sexta:** Follow-up issues paradas >7 dias  
-- **Sábado:** Resumo semanal de progresso
-
-### **Check-ins Semanais:**
-- **thiagodemedeiros:** Status dos 3 orçamentos
-- **renan-asantos:** Decisão sobre fones + keynotes
-- **Voluntários inativos:** Reativação ou substituição
-
-### **Métricas Semanais:**
-- **Orçamentos finalizados** por semana (meta: 2-3)
-- **Issues órfãs resolvidas** (meta: 1-2)  
-- **Voluntários reativados** (meta: 1)
 
 ---
 

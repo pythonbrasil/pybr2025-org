@@ -33,9 +33,9 @@ Monitorar continuamente as tarefas organizacionais da Python Brasil 2025, analis
   - Dependências implícitas entre tarefas
 
 - **Análise de Status Real:**
-  - Lê comentários para detectar progresso não refletido no status
+  - **OBRIGATÓRIO:** Sempre ler comentários de TODAS as issues para detectar progresso real
   - Identifica blockers através de palavras-chave
-  - Reconhece conclusão implícita vs fechamento formal
+  - Reconhece conclusão implícita vs fechamento formal  
   - **⚠️ CUIDADO:** Não assumir progresso apenas por haver comentários - verificar se há trabalho substancial realizado
 
 **Resultado:** Issues categorizadas com metadados extraídos e status real identificado
@@ -268,13 +268,42 @@ Issue #102: Definir parceria Pythonic Café
 📈 Dashboard: https://github.com/orgs/pythonbrasil/projects/8
 ```
 
-### **Relatório Semanal (Sextas 17:00 via GitHub Issue)**
+### **Relatório Semanal (Conciso - via GitHub Issue)**
 
-- **Análise de Tendências:** Performance vs semana anterior
-- **Identificação de Gargalos:** Categorias/pessoas com dificuldades
-- **Progresso vs Cronograma:** Status em relação aos milestones do evento
-- **Recomendações Estratégicas:** Ajustes necessários na organização
-- **Previsões:** Riscos identificados para as próximas semanas
+**Formato simplificado focado em ações:**
+
+```
+# 📊 PYTHON BRASIL 2025 - RELATÓRIO SEMANAL
+📅 [Data]
+
+## 🎯 VISÃO GERAL
+• Issues Ativas: X
+• Orçamentos com Progresso: X/16 (X%)
+• Issues Críticas Órfãs: X
+• Dias até evento: X
+
+## 🔥 PRIORIDADES CRÍTICAS (Top 5)
+1. Issue #X: [Título] - [Status] - [Responsável]
+2. Issue #X: [Título] - [Status] - [Responsável]
+...
+
+## 🚨 PROBLEMAS CRÍTICOS
+### Issues Paradas >30 dias:
+- Lista concisa
+
+### Gargalo Principal:
+- Descrição breve do maior problema
+
+### Bloqueadores:
+- Issues que bloqueiam outras
+
+## 💡 AÇÕES PRIORITÁRIAS
+### URGENTE:
+- Lista de 3-5 ações imediatas
+
+### ESTA SEMANA:
+- Lista de 3-5 ações para a semana
+```
 
 ### **Comandos Interativos (Telegram)**
 
@@ -330,35 +359,36 @@ Issue #102: Definir parceria Pythonic Café
 
 ## 🎓 **Lições Aprendidas**
 
-### **Erro Crítico: Assumir Progresso por Comentários (18/08/2025)**
+### **Lição Crítica: Analisar Comentários Para Status Real (24/08/2025)**
 
-**O que aconteceu:**  
-Durante análise da issue #71 (Coffee Break), assumi que estava "sendo trabalhada" apenas porque @belaaiza havia comentado. Na realidade:
-- ❌ Apenas 1 fornecedor contactado
-- ❌ Sem follow-up sobre resposta  
-- ❌ Sem responsável assignado
-- ❌ Sem pesquisa estrutural
+**Descoberta Importante:**  
+Na análise de 24/08, detectei progresso real ao ler comentários das issues que não estava visível apenas pelos assignees:
 
-**Erro conceitual:**  
-Confundi **atividade** com **progresso efetivo**. Um comentário isolado ≠ trabalho substancial.
+**Progressos Descobertos:**
+- thiagodemedeiros assumiu espontaneamente 3 issues críticas (#87, #136, #98)
+- Issues tinham orçamentos IA prontos mas sem execução
+- Voluntários inativos há 30+ dias com responsabilidade
 
-**Correção aplicada:**  
-- ✅ Adicionar verificação de "trabalho estrutural realizado"
-- ✅ Não categorizar como "em progresso" se houver apenas comentário isolado
-- ✅ Exigir evidência de múltiplos fornecedores/pesquisa para vendor research
-- ✅ Distinguir entre "alguém comentou" vs "alguém está trabalhando ativamente"
+**Nova Metodologia Obrigatória:**
+- ✅ **SEMPRE** ler comentários de TODAS as issues abertas antes do relatório
+- ✅ Usar `gh issue view [number] --json comments` para análise programática
+- ✅ Distinguir entre "orçamento gerado" vs "fornecedores sendo contatados"
+- ✅ Identificar voluntários ativos que assumiram issues informalmente
+- ✅ Detectar issues realmente paradas vs com atividade recente
 
-**Regra para futuro:**  
-Para vendor research, considerar "em progresso" apenas com:
-- 3+ fornecedores identificados OU
-- Template de mensagem criado OU  
-- Múltiplas cotações solicitadas OU
-- Orçamentos recebidos
+**Regra para Vendor Research:**
+Considerar "em progresso" apenas com evidência nos comentários de:
+- Lista de empresas sendo contatadas OU
+- Templates de mensagem sendo usados OU  
+- Orçamentos sendo recebidos OU
+- Follow-ups sendo feitos
+
+**Impacto:** Issues órfãs reduziram de 15 para 8, progresso de orçamentos subiu de 44% para 63%
 
 ---
 
 **Documento criado em:** 14 de agosto de 2025  
-**Última atualização:** 18 de agosto de 2025  
+**Última atualização:** 24 de agosto de 2025  
 **Evento:** Python Brasil 2025 (21-27 out/2025)  
 **Contexto:** Especificação funcional para operação via Claude Code  
 **Localização:** `/assistente-ia/contexto/como-rastrear-tarefas.md`

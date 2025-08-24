@@ -218,4 +218,30 @@ Atenciosamente,
 
 **Metodologia criada em:** 14 de agosto de 2025
 **Para evento:** Python Brasil 2025 (21-27 out/2025)
-**Localização arquivo:** /Users/macbook/project/misc/metodologia_orcamentos_python_brasil.md
+**Localização arquivo:** assistente-ia/contexto/como-fazer-orcamentos.md
+
+---
+
+## 📁 Localização dos Orçamentos
+
+### **Estrutura de Pastas:**
+```
+assistente-ia/
+└── orcamentos/
+    ├── fotografia-videomaker-python-brasil-2025.md
+    ├── materiais-graficos-python-brasil-2025.md
+    ├── crachas-python-brasil-2025.md
+    └── [outros-orcamentos].md
+```
+
+### **Padrão de Nomenclatura:**
+- **Formato:** `[categoria]-python-brasil-2025.md`
+- **Exemplos:** 
+  - `camisetas-python-brasil-2025.md`
+  - `coffee-break-python-brasil-2025.md`
+  - `estandes-python-brasil-2025.md`
+
+### **Regra de Salvamento:**
+- ✅ **SEMPRE salvar em:** `assistente-ia/orcamentos/`
+- ❌ **NUNCA salvar em:** `orcamentos/` (raiz)
+- ✅ **Seguir metodologia** deste arquivo para pesquisas

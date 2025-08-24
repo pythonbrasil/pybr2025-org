@@ -1,11 +1,36 @@
-# 🪑 Orçamento Aluguel de Cadeiras - São Paulo
+# 🪑 Orçamento Completo de Mobiliários - São Paulo
 
 ## 📋 Informações do Evento
 - **Local:** Centro de Eventos São Luis (R. Luís Coelho, 323 - Consolação, São Paulo)
 - **Data:** 24 a 26 de Outubro de 2025
-- **Quantidade:** 600-800 cadeiras
 - **Entrega:** 23 de outubro, período da manhã
 - **Retirada:** 26 de outubro, a partir das 19h
+
+### 📦 Lista Completa de Mobiliários Necessários
+
+**AUDITÓRIO PRINCIPAL:**
+- 600-800 cadeiras de auditório
+- 20 cadeiras para house mix
+
+**COFFEE BREAK:**
+- 10 mesas baixas
+- 40 cadeiras baixas
+
+**MINI OPEN SPACES:**
+- 16 pufes meia lua ou curvo
+- 08 mesas de centro (diâmetro aprox. 1,10m)
+- 20 pufes tamborete
+- 08 totens de tomada
+
+**CREDENCIAMENTO:**
+- 04 balcões 2,00 L x 1,40 H em duas alturas com prateleiras internas
+- 04 pranchões com toalha para personalização de crachás e apoio coffee
+
+**QUIET SPACE:**
+- 02 poltronas
+- 03 sofás de 3 lugares
+- 01 sofá de 2 lugares
+- 03 mesas de apoio/centro
 
 ---
 
@@ -19,6 +44,7 @@
 - **🏆 Credenciais:** 28 anos no mercado, +150 mil eventos realizados
 - **⚠️ Reviews:** Tem página no Reclame Aqui (verificar antes de contratar)
 - **✅ Diferencial:** Maior empresa do segmento, estoque estratégico em SP
+- **🛋️ Produtos Disponíveis:** ✅ Cadeiras, ✅ Mesas, ✅ Sofás, ✅ Poltronas, ✅ Pufes, ✅ Mesas de Centro, ✅ Balcões, ✅ Pranchões, ✅ Totens Carregador de Celular
 
 ### 2. Magui Locação ⭐⭐⭐⭐
 
@@ -27,6 +53,7 @@
 - **📞 Contato:** (11) 2218-6620 | (11) 98974-6925 | (11) 98972-0755
 - **🌟 Reviews:** Presente no Reclame Aqui (tempo resposta: 5 dias)
 - **✅ Diferencial:** "+10 mil opções de itens", preços competitivos
+- **🛋️ Produtos Disponíveis:** ✅ Cadeiras, ✅ Mesas, ✅ Sofás, ✅ Poltronas, ✅ Pufes, ✅ Balcões, ✅ Banquetas, ✅ Espelhos (catálogo extenso)
 
 ### 3. FW Locação ⭐⭐⭐
 
@@ -34,12 +61,32 @@
 - **📞 Contato:** 11 3966-6339 | 11 97181-6659 | 11 94741-3377
 - **📱 App próprio:** "App FW Móveis" (Android/iOS)
 - **✅ Diferencial:** 15 anos mercado, certificações ABNT
+- **🛋️ Produtos Disponíveis:** ✅ Cadeiras, ✅ Mesas, ✅ Sofás (1, 2 e 3 lugares), ✅ Poltronas, ✅ Pufes (incluindo meia lua), ✅ Balcões de atendimento
 
 ### 4. Pró Festas ⭐⭐⭐
 
 - **📞 WhatsApp:** (11) 4765-6686
 - **⚠️ Reviews:** Presença online limitada (verificar antes)
 - **✅ Diferencial:** Atende região Consolação especificamente
+- **🛋️ Produtos Disponíveis:** ❓ Foco em cadeiras e mesas básicas (confirmar outros itens)
+
+---
+
+## 🔌 Fornecedores Especializados Adicionais
+
+### 5. Global Totens ⭐⭐⭐⭐ (Para Totens de Tomada)
+
+- **🌐 Website:** [locacaodetotens.com.br](https://locacaodetotens.com.br/)
+- **📞 Contato:** Verificar no site
+- **✅ Especialidade:** Totens digitais, interativos, com carregadores de celular
+- **🔌 Produtos:** Totens com carregadores, totens com roleta digital
+
+### 6. LK Locações ⭐⭐⭐ (Para Balcões Credenciamento)
+
+- **🌐 Website:** [lklocacoes.com.br](https://lklocacoes.com.br/)
+- **📞 Contato:** Verificar no site
+- **✅ Especialidade:** Balcões para eventos, feiras e credenciamento
+- **🏢 Produtos:** Balcões retos, curvos, com LED, para stands
 
 ---
 
@@ -64,30 +111,56 @@
 
 ---
 
-## 💬 Template de Mensagem Personalizada
+## 💬 Template de Mensagem Atualizado
 
 ```
-Olá! Vi vocês no Instagram/Facebook e gostaria de um orçamento.
+Olá! Vi vocês no Instagram/Facebook e gostaria de um orçamento completo.
 
-Estamos organizando um evento presencial que acontecerá no Centro de Eventos São Luis (R. Luís Coelho, 323 - Consolação, São Paulo), nos dias 24 a 26 de Outubro de 2025. Gostaríamos de solicitar um orçamento para o aluguel de cadeiras, considerando as seguintes variações:
+Estamos organizando a Python Brasil 2025, um evento de tecnologia que acontecerá no Centro de Eventos São Luis (R. Luís Coelho, 323 - Consolação, São Paulo), nos dias 24 a 26 de Outubro de 2025.
 
-Tipos de cadeira:
-• Cadeira de plástico simples (modelo mais econômico)
-• Cadeira com acolchoado (modelo mais confortável)
+Gostaríamos de solicitar um orçamento para o aluguel dos seguintes mobiliários:
 
-Quantidades:
-• 600 unidades
-• 800 unidades
+🪑 CADEIRAS:
+• 600-800 cadeiras de auditório (plástico simples e com acolchoado)
+• 20 cadeiras para house mix
+• 40 cadeiras baixas para coffee break
 
-Informações logísticas:
-• Entrega: dia 23 de outubro de 2025, no período da manhã (preferencialmente)
-• Retirada: dia 26 de outubro de 2025, a partir das 19h
+🛋️ SOFÁS E POLTRONAS:
+• 02 poltronas
+• 03 sofás de 3 lugares
+• 01 sofá de 2 lugares
 
-Caso tenham opções de modelos com fotos e valores unitários (com e sem frete), seria ótimo receber também para podermos avaliar com mais precisão.
+🪑 PUFES:
+• 16 pufes meia lua ou curvos
+• 20 pufes tamborete
 
-Fico à disposição para qualquer dúvida e aguardo o retorno com as informações solicitadas.
+🍽️ MESAS:
+• 10 mesas baixas (coffee break)
+• 08 mesas de centro (diâmetro aprox. 1,10m)
+• 03 mesas de apoio/centro
+
+🏢 BALCÕES E ESTRUTURAS:
+• 04 balcões para credenciamento (2,00L x 1,40H) com prateleiras
+• 04 pranchões com toalha
+
+🔌 EQUIPAMENTOS ESPECIAIS:
+• 08 totens de tomada/carregadores
+
+INFORMAÇÕES LOGÍSTICAS:
+• Entrega: 23 de outubro de 2025, período da manhã
+• Retirada: 26 de outubro de 2025, a partir das 19h
+• Local: Centro de Eventos São Luis, Consolação
+
+Por favor, enviem:
+1. Orçamento separado por categoria de item
+2. Fotos dos modelos disponíveis
+3. Valores unitários (com e sem frete)
+4. Disponibilidade confirmada para as datas
+
+Fico à disposição para qualquer dúvida.
 
 Atenciosamente,
+[Nome - Python Brasil 2025]
 ```
 
 ---
@@ -101,5 +174,6 @@ Atenciosamente,
 
 ---
 
-**Arquivo gerado em:** 14 de agosto de 2025
-**Localização:** /Users/macbook/project/misc/orcamento_cadeiras_sp.md
+**Arquivo gerado em:** 14 de agosto de 2025  
+**Última atualização:** 24 de agosto de 2025  
+**Localização:** /Users/macbook/project/pybr2025-org/assistente-ia/orcamentos/orcamento-cadeiras-sp.md

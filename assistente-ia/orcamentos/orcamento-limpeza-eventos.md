@@ -55,18 +55,75 @@
 - **✅ Serviços:** Limpeza, portaria, controle de acesso
 - **🏆 Diferencial:** Grande porte e cobertura nacional
 
+### 5. **⭐⭐⭐⭐ EQUIPE 1 SERVIÇOS** (RECOMENDADA)
+- **📞 Contato:** (31) 99317-9229 (WhatsApp)
+- **🌐 Website:** equipe1servicos.com.br
+- **📱 Instagram:** @equipe1servicos
+- **📍 Local:** Belo Horizonte (atende eventos nacionais)
+- **⏰ Experiência:** +10 anos no mercado de eventos
+- **🎯 Especialidade:** Limpeza, segurança e brigadistas para eventos
+- **⭐ Reviews:** Reconhecida por +40 produtoras de eventos
+- **✅ Serviços:** Limpeza pré/durante/pós evento, equipe especializada
+- **🏆 Diferencial:** Clientes grandes (Itambé, ArcelorMittal, Fiat, Honda, SESC)
+
+### 6. **⭐⭐⭐ TERSERV** (ACEITÁVEL)
+- **📞 Contato:** (11) 3721-1545
+- **📧 Email:** comercial@terserv.com.br
+- **📍 Local:** Rua Tabapuã, 422, 5º Andar - Itaim Bibi, São Paulo
+- **⏰ Experiência:** Empresa estabelecida em terceirização
+- **🎯 Especialidade:** Terceirização completa (limpeza, recepção, segurança)
+- **⭐ Reviews:** 2 reclamações Reclame Aqui, 50% resolvidas, 35 dias resposta
+- **✅ Serviços:** Limpeza terceirizada, mão de obra qualificada para eventos
+- **🏆 Diferencial:** Localização central em SP, serviços integrados
+
+### 7. **⭐⭐⭐ GRUPO FLS** (ACEITÁVEL)
+- **📞 Contato:** (11) 4472-2990
+- **📧 Email:** valter@grupofls.com.br
+- **📍 Local:** R. Sibéria, 19 - Parque Oratorio, Santo André
+- **⏰ Experiência:** Desde 1990 (35 anos)
+- **🎯 Especialidade:** Limpeza terceirizada para empresas e condomínios
+- **⭐ Reviews:** Empresa tradicional, sem dados específicos de avaliações
+- **✅ Serviços:** Limpeza terceirizada, recepção/portaria
+- **🏆 Diferencial:** Longa experiência no mercado, foco B2B
+
+### 8. **⭐⭐⭐ CLN EVENTOS** (ACEITÁVEL)
+- **📞 Contato:** A confirmar via website
+- **🌐 Website:** buffet.cln.com.br
+- **📍 Local:** São Paulo
+- **⏰ Experiência:** Especializada em buffet corporativo
+- **🎯 Especialidade:** Limpeza terceirizada para eventos corporativos
+- **⭐ Reviews:** Sem dados específicos de avaliações
+- **✅ Serviços:** Limpeza, segurança, buffet corporativo integrado
+- **🏆 Diferencial:** Serviços integrados para eventos corporativos
+
+### 9. **⭐⭐⭐ EMPRESA DE LIMPEZA** (ACEITÁVEL)
+- **📞 Contato:** (11) 94037-7673
+- **📧 Email:** contato@empresadelimpeza.biz
+- **📍 Local:** Rua Manoel da Nóbrega, 169, Sala 8, São Paulo
+- **⏰ Experiência:** Empresa especializada em eventos
+- **🎯 Especialidade:** Limpeza profissional para eventos
+- **⭐ Reviews:** Sem dados específicos de avaliações
+- **✅ Serviços:** Limpeza completa de eventos, preços competitivos
+- **🏆 Diferencial:** Foco específico em eventos, localização central
+
 ---
 
-## 🎯 Recomendação Final (TOP 3 PRIORIZADAS)
+## 🎯 Recomendação Final (TOP 5 PRIORIZADAS)
 
 ### 1º **CONSULIMP** ⭐⭐⭐⭐
-**Por que escolher:** +20 anos experiência, especializada em eventos, sem reclamações recentes
+**Por que escolher:** +20 anos experiência, especializada em eventos, sem reclamações recentes, localizada em SP
 
 ### 2º **GRP SERVIÇOS TERCEIRIZADOS** ⭐⭐⭐⭐
-**Por que escolher:** Tecnologia inovadora, reviews excelentes (4.5 estrelas), preços competitivos
+**Por que escolher:** Tecnologia inovadora, reviews excelentes (4.5 estrelas), preços competitivos, pontualidade
 
-### 3º **ÚNICA LIMPEZAS** ⭐⭐⭐
-**Por que escolher:** Flexibilidade na composição da equipe, cobertura regional
+### 3º **EQUIPE 1 SERVIÇOS** ⭐⭐⭐⭐
+**Por que escolher:** +10 anos especializada em eventos, grandes clientes (Fiat, Honda, SESC), reconhecida por produtoras
+
+### 4º **ÚNICA LIMPEZAS** ⭐⭐⭐
+**Por que escolher:** Flexibilidade na composição da equipe, cobertura regional, 8 anos experiência
+
+### 5º **GRUPO FLS** ⭐⭐⭐
+**Por que escolher:** 35 anos no mercado, experiência consolidada, foco empresarial
 
 ---
 
@@ -94,9 +151,14 @@
 - **Limpeza básica:** R$ 8-15 por m²
 - **Limpeza completa:** R$ 20-35 por m²
 
-### **Estimativa Total para Python Brasil 2025:**
+### **Estimativa Total para Python Brasil 2025 (3 dias):**
 - **600 pessoas:** R$ 9.000 - R$ 48.000
 - **800 pessoas:** R$ 12.000 - R$ 64.000
+
+### **Estimativa por Tipo de Serviço:**
+- **Limpeza Pré-evento:** R$ 2.000 - R$ 5.000
+- **Limpeza Durante evento (3 dias):** R$ 6.000 - R$ 15.000
+- **Limpeza Pós-evento:** R$ 3.000 - R$ 8.000
 
 *Valores podem variar conforme duração do evento e serviços adicionais*
 
